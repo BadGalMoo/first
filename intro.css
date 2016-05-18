@@ -1,0 +1,32 @@
+/* CSS Document */
+.banner {
+	display: block;
+	margin: 0 auto;
+	position:relative;
+	left:250px;
+}
+
+.minion1 {
+	float:right;
+}
+
+.artical {
+	position:relative;
+	bottom: 30px;
+	
+}
+
+.text {
+	text-align:center;
+	font-size:9px;
+	position:relative;
+	top:30px;
+	
+}
+
+.btn {
+	display:inline;
+	float:left;
+	position:relative;
+	left:570px;
+}

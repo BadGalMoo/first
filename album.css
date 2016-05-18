@@ -1,0 +1,53 @@
+/* CSS Document */
+.header {
+	padding-top: 25px;
+	display:block;
+	margin: 0 auto;
+	width:70%;
+	padding:30px;
+}
+
+
+
+.p1,.p2,.p3 {
+	display:inline-block;
+	margin-top: 20px;
+	margin-left: 35px;
+	margin-right:25px;	
+	border: 5px solid #FFF;
+	
+}
+
+.p4,.p5,.p6 {
+	display:inline-block;
+	margin-top: 20px;
+	margin-left: 35px;
+	margin-right:25px;	
+	border: 5px solid #FFFFFF;
+}
+
+.p5 {
+	position:relative;
+	bottom:50px;
+}
+
+
+	
+.text {
+	text-align:center;
+	font-size:9px;
+	padding-top:40px;
+}
+
+.btn {
+	display:inline;
+	float:left;
+	position:relative;
+	left:600px;
+	top:250px;
+}
+
+.minion {
+	position:relative;
+	left:270px;
+}

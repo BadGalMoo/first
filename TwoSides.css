@@ -1,0 +1,47 @@
+/* CSS Document */
+
+.header {
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	left:150px;
+	bottom:600px;
+	vertical-align:middle;
+	
+}
+
+.dislikes {
+	float:right;
+	margin-top:80px;
+	display:inline-block;
+	
+}
+
+.likes {
+	float:left;
+	margin-top:80px;
+	display:inline-block;
+	margin-left:50px;
+}
+
+.minion {
+	margin-top:150px;
+	position:relative;
+	right:100px;
+	display:inline-block;
+}
+
+.btn {
+	display:inline;
+	float:left;
+	position:relative;
+	left:650px;
+}
+
+.text {
+	font-size:9px;
+	text-align:center;
+	position:relative;
+	top:30px;
+	
+}

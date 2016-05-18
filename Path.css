@@ -1,0 +1,44 @@
+/* CSS Document */
+.title {
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	position:relative;
+	left: 200px;
+}
+
+.pr {
+	float:left;
+	position:relative;
+	top:50px;
+	padding-left:200px;
+	}
+
+.md {
+	float:left;
+	padding-right:150px;
+	padding-top:300px;
+	position:relative;
+	bottom:40px;
+}
+
+.hg {
+	float:left;
+	padding-left:200px;
+}
+
+.text {
+	text-align:center;
+	font-size:9px;
+	position:relative;
+	top:350px;
+	right:350px;
+}
+
+.btn {
+	display:inline;
+	float:left;
+	position:relative;
+	top:300px;
+	right:50px;
+}

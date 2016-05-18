@@ -1,0 +1,37 @@
+/* CSS Document */
+.nav {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 0px;
+}
+
+.bellow {
+	padding-left:380px;
+	margin-right:auto;
+	width:50%;
+}
+
+.minions {
+	padding-left:370px;
+	margin-right:auto;
+	width:50%;
+	
+}
+
+p {
+	position:relative;
+	top: 20px;
+	font-size:10px;
+	text-align:center;
+}
+
+.bubble {
+	float:left;
+	padding-top: 50px;
+	}
+	
+.tip1 {
+	display:none;
+}\
+
+.kucha1
